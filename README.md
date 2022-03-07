@@ -1,4 +1,6 @@
-# awesome-web-frontend
+![Awesome](./media/awesome.svg)
+
+# Awesome Web Frontend
 
 A curated list of awesome web frontend related resources 😎
 
