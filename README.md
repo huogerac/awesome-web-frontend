@@ -87,11 +87,15 @@ A curated list of awesome web frontend related resources 😎
 
 ## Bibliotecas CSS
 
-https://una.im/CSSgram/
-https://www.cssfilters.co/
+- https://una.im/CSSgram/
+- https://www.cssfilters.co/
 
 ## Javascript Prática
 
 - [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 
-## Teste
+## Awesome Websites
+
+- [Josh Comeau](https://www.joshwcomeau.com/)
+- [Mario Saul](https://www.mariosaul.com/)
+- [Stripe Press](https://press.stripe.com/)
