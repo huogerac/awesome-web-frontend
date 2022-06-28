@@ -45,6 +45,11 @@ A curated list of awesome web frontend related resources 😎
 - [https://freehtml5.co/](https://freehtml5.co/)
 - [https://www.html5xcss3.com/](https://www.html5xcss3.com/c/free-website-templates)
 - [https://themesfor.app/](https://themesfor.app/all-themes/)
+- [https://www.landingfolio.com/](https://www.landingfolio.com/)
+- [https://saaspik.pixelsigns.art/](https://saaspik.pixelsigns.art/)
+- [https://uicookies.com/](https://uicookies.com/)
+- [https://nicepage.com/](https://nicepage.com/)
+- [https://webthemez.com/](https://webthemez.com/)
 
 ## Ferramentas visuais
 
@@ -53,6 +58,9 @@ A curated list of awesome web frontend related resources 😎
 - https://www.shapedivider.app/
 - https://app.haikei.app/
 - https://neumorphism.io/
+- https://css.glass/
+- https://getwaves.io/
+- https://www.blobmaker.app/
 - https://www.photopea.com/
 - https://www.gimp.org/
 
@@ -60,6 +68,9 @@ A curated list of awesome web frontend related resources 😎
 
 - [Documentação](https://devdocs.io/css/)
 - [Seletores Game](https://flukeout.github.io/)
+- [Dev Samples CSS](https://www.devsamples.com/)
+- [Responsive Design Checker](https://responsivedesignchecker.com/)
+- [Box Shadow](https://neumorphism.io/#e0e0e0)
 
 ## Ferramentas CSS & Fonts
 
@@ -72,18 +83,23 @@ A curated list of awesome web frontend related resources 😎
 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc)
 
-## Icons
+## Icons / Favicon
 
 - https://fontawesome.com
 - https://www.flaticon.com/
+- https://toolcool.org/random-favicon-generator/
 
 ## Extra
 
 - [Como as fontes recontam a história da escrita - Atila Iamarino](https://www.youtube.com/watch?v=ORfyYK24CRQ&list=WL&index=8)
 
-## Inspirações
+## Inspirações ⭐️
 
-- https://www.awwwards.com/websites/
+- [Dribble](https://dribble.com/)
+- [Behance](https://www.behance.net/)
+- [awwwards](https://www.awwwards.com/websites/)
+- [One Page Love](https://onepagelove.com/)
+- [Up Labs](https://www.uplabs.com/)
 
 ## Bibliotecas CSS
 
@@ -99,3 +115,7 @@ A curated list of awesome web frontend related resources 😎
 - [Josh Comeau](https://www.joshwcomeau.com/)
 - [Mario Saul](https://www.mariosaul.com/)
 - [Stripe Press](https://press.stripe.com/)
+
+## Outros
+
+- https://ihateregex.io/
